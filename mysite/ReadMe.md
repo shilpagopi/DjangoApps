@@ -1,7 +1,7 @@
-# Django App Project: QuickStart Skeleton Framework
+# Django Web App Project: QuickStart Skeleton Framework
 
 **Objective**
-This django project is intended to provide a quick start skeleton framework, if you are looking to set up a minimal interface to showcase your work.  
+This django project is intended to provide a quick-start skeleton framework of a web application, if you are looking to set up a minimal interface to showcase your work.  
 *Note*: This is useful only if you have atleast 1-2 days of prior experience on Django projects/apps.
 
 **What you get**
